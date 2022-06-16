@@ -1,7 +1,7 @@
 {
   "name": "sigstore",
   "version": "0.0.0",
-  "description": "code-signing for npm packages",
+  "description": "code-signing for npm packages!",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
